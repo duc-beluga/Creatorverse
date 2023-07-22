@@ -58,6 +58,8 @@ GIF created with ... 👉🏿 GIF tool here
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
+**So many TailwindCSS classes to remember.**
+
 ## License
 
 Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
