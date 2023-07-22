@@ -99,10 +99,9 @@ const EditCreator = () => {
               id="description"
               name="description"
               onChange={handleInputChange}
+              value={description || ""}
               className="w-80 rounded-md m-2 h-14 px-3 shadow-md overflow-auto no-scrollbar"
-            >
-              {description || ""}
-            </textarea>
+            />
 
             <label htmlFor="imageURL" className="m-1 font-semibold">
               imageURL:

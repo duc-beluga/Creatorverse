@@ -60,12 +60,11 @@ const AddCreator = () => {
           Description:
         </label>
 
-        <input
-          type="text"
+        <textarea
           id="description"
           name="description"
           ref={descriptionRef}
-          className="w-80 rounded-md m-2 h-8 px-3 shadow-md"
+          className="w-80 rounded-md m-2 h-14 px-3 shadow-md overflow-auto no-scrollbar"
         />
 
         <label htmlFor="imageURL" className="m-1 font-semibold">
